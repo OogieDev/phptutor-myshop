@@ -98,3 +98,23 @@
 ============================
 [2018-07-07 02:33:05] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\public\index.php | Строка: 8
 ============================
+[2018-07-07 20:19:52] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 28
+============================
+[2018-07-07 20:20:26] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 28
+============================
+[2018-07-07 21:37:07] Текст ошибки: Контроллер app\controllers\PageNewController не найден | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 32
+============================
+[2018-07-07 21:37:08] Текст ошибки: Контроллер app\controllers\PageNewController не найден | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 32
+============================
+[2018-07-07 21:38:37] Текст ошибки: Class 'app\controllers\PageNewController' not found | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 28
+============================
+[2018-07-07 21:38:38] Текст ошибки: Class 'app\controllers\PageNewController' not found | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 28
+============================
+[2018-07-07 21:38:38] Текст ошибки: Class 'app\controllers\PageNewController' not found | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 28
+============================
+[2018-07-07 21:40:35] Текст ошибки: Контроллер app\controllers\PageNewController не найден | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 36
+============================
+[2018-07-07 21:40:47] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 36
+============================
+[2018-07-07 21:41:30] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 33
+============================
