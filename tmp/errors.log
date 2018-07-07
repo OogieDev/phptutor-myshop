@@ -122,3 +122,21 @@
 ============================
 [2018-07-07 23:45:43] Текст ошибки: Метод app\controllers\PageController::actionAction не найден | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 34
 ============================
+[2018-07-08 00:37:39] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 40
+============================
+[2018-07-08 00:46:34] Текст ошибки: Не найден вид C:\LocalServer\OSPanel\domains\myshop.loc/app/views//.php | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\base\View.php | Строка: 41
+============================
+[2018-07-08 00:48:09] Текст ошибки: Не найден вид C:\LocalServer\OSPanel\domains\myshop.loc/app/views//.php | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\base\View.php | Строка: 41
+============================
+[2018-07-08 00:48:35] Текст ошибки: Не найден вид C:\LocalServer\OSPanel\domains\myshop.loc/app/views//.php | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\base\View.php | Строка: 41
+============================
+[2018-07-08 01:29:10] Текст ошибки: Не найден вид C:\LocalServer\OSPanel\domains\myshop.loc/app/views//.php | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\base\View.php | Строка: 41
+============================
+[2018-07-08 01:29:11] Текст ошибки: Не найден вид C:\LocalServer\OSPanel\domains\myshop.loc/app/views//.php | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\base\View.php | Строка: 41
+============================
+[2018-07-08 01:29:16] Текст ошибки: Не найден вид C:\LocalServer\OSPanel\domains\myshop.loc/app/views//.php | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\base\View.php | Строка: 41
+============================
+[2018-07-08 01:29:16] Текст ошибки: Не найден вид C:\LocalServer\OSPanel\domains\myshop.loc/app/views//.php | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\base\View.php | Строка: 41
+============================
+[2018-07-08 01:29:22] Текст ошибки: Class 'ishop\base\Db' not found | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\base\Model.php | Строка: 14
+============================
