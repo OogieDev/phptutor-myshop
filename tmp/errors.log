@@ -118,3 +118,7 @@
 ============================
 [2018-07-07 21:41:30] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 33
 ============================
+[2018-07-07 23:45:37] Текст ошибки: Метод app\controllers\PageController::actionAction не найден | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 34
+============================
+[2018-07-07 23:45:43] Текст ошибки: Метод app\controllers\PageController::actionAction не найден | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 34
+============================
