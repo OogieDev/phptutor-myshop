@@ -96,15 +96,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/default.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -223,6 +214,11 @@
             <path>
               <item name="myshop.loc" type="b2602c69:ProjectViewProjectNode" />
               <item name="myshop.loc" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop.loc" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -261,6 +257,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\LocalServer\OSPanel\domains\myshop.loc\files" />
       <recent name="C:\LocalServer\OSPanel\domains\myshop.loc\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -291,12 +288,12 @@
       <updated>1530876615434</updated>
       <workItem from="1530876624291" duration="4807000" />
       <workItem from="1530914565297" duration="5633000" />
-      <workItem from="1530965201207" duration="21159000" />
+      <workItem from="1530965201207" duration="21772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31599000" />
+    <option name="totallyTimeSpent" value="32212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="489" y="39" width="958" height="454" extended-state="0" />
@@ -308,7 +305,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.38322717" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38322717" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32853025" />
@@ -656,6 +653,13 @@
             <element signature="n#div#1;n#!!top" />
             <element signature="n#div#2;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/ishop2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="2" />
         </state>
       </provider>
     </entry>
