@@ -340,3 +340,41 @@
 ============================
 [2018-07-08 15:06:18] Текст ошибки: Контроллер app\controllers\PageController не найден | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 38
 ============================
+[2018-07-09 18:10:54] Текст ошибки: Class 'R' not found | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Db.php | Строка: 14
+============================
+[2018-07-09 18:10:54] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 41
+============================
+[2018-07-09 18:11:21] Текст ошибки: Class 'R' not found | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Db.php | Строка: 14
+============================
+[2018-07-09 18:11:50] Текст ошибки: Class 'R' not found | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Db.php | Строка: 14
+============================
+[2018-07-09 18:27:50] Текст ошибки: syntax error, unexpected '$this' (T_VARIABLE) | файл: C:\LocalServer\OSPanel\domains\myshop.loc\app\controllers\MainController.php | Строка: 13
+============================
+[2018-07-09 18:27:50] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 41
+============================
+[2018-07-09 19:21:41] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 41
+============================
+[2018-07-09 19:25:07] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 41
+============================
+[2018-07-09 19:26:20] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 41
+============================
+[2018-07-09 19:26:22] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 41
+============================
+[2018-07-09 19:26:31] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 41
+============================
+[2018-07-09 19:26:52] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 41
+============================
+[2018-07-09 19:27:16] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 41
+============================
+[2018-07-09 19:28:39] Текст ошибки: Call to undefined function val() | файл: C:\LocalServer\OSPanel\domains\myshop.loc\app\views\Main\index.php | Строка: 66
+============================
+[2018-07-09 19:29:07] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 41
+============================
+[2018-07-09 19:32:07] Текст ошибки: Страница не найдена | файл: C:\LocalServer\OSPanel\domains\myshop.loc\vendor\ishop\core\Router.php | Строка: 41
+============================
+[2018-07-10 02:42:36] Текст ошибки: Class 'app\controllers\App' not found | файл: C:\LocalServer\OSPanel\domains\myshop.loc\app\controllers\AppController.php | Строка: 17
+============================
+[2018-07-10 02:42:37] Текст ошибки: Class 'app\controllers\App' not found | файл: C:\LocalServer\OSPanel\domains\myshop.loc\app\controllers\AppController.php | Строка: 17
+============================
+[2018-07-10 02:42:37] Текст ошибки: Class 'app\controllers\App' not found | файл: C:\LocalServer\OSPanel\domains\myshop.loc\app\controllers\AppController.php | Строка: 17
+============================
